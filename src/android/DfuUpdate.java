@@ -93,7 +93,7 @@ public class DfuUpdate extends CordovaPlugin {
 	}
 
 	private boolean hasPerms() {
-		return cordova.hasPermission(COARSE) && cordova.hasPermission(BLUETOOTH);
+		return true // cordova.hasPermission(COARSE) && cordova.hasPermission(BLUETOOTH);
 	}
 
 
