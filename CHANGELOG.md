@@ -21,7 +21,7 @@
 
 ## 1.2.0
 - Increase androix Lifecycle Version
-- Use the Android Framework by `ANDROID_NORDIC_VERSION` (default **1.11.0**)
+- Use the Android Framework by `ANDROID_NORDIC_VERSION` (default **1.12.0**)
 - Use `iOSDFULibrary` **4.8.1**
 - Better readme
 - Issue Templates added
